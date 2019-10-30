@@ -1,0 +1,73 @@
+.logo{
+	position: absolute;
+	left: 43%; 
+	right: 33%; 
+}
+input {
+width: 382px;
+height: 30px;
+}
+.zoekbalk{position: relative; 
+top: 21em;
+border-radius: 6em/5em;
+left: 39%;
+z-index: 1; 
+}
+
+.inlogen {
+position: relative;
+left:36em;
+top: -1em;	
+background-color: #4584ef;
+border-radius: 25% 10%;
+}
+
+.Googlezoek{
+position: relative;
+top: 24em;
+left: 20%
+}
+
+.gok {
+position: relative;
+top: 24em;
+left: 22%;
+}
+@media (hover: hover) {
+  input:hover { box-shadow: 5px 10px 2px #888888;
+  }
+  .footer {
+  position: fixed;
+  left: 0;
+  bottom: 1.1em;
+  width: 100%;
+  background-color: #f2f2f2 ;
+  color: white;
+  text-align: left;
+border-style: ridge;
+ }
+
+.foot2 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f2f2f2;
+  color: white;
+  text-align: left;
+}
+
+div#wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+img {
+  position: absolute;
+  top: 15.9em;  
+  left: 40%;
+}
+.vergrootglas{
+ z-index: 2;
+}
