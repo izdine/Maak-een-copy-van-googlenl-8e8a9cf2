@@ -4,8 +4,8 @@
 	right: 33%; 
 }
 input {
-width: 382px;
-height: 30px;
+width: 25%;
+height: 2em;
 }
 .zoekbalk{position: relative; 
 top: 21em;
@@ -25,13 +25,13 @@ border-radius: 25% 10%;
 .Googlezoek{
 position: relative;
 top: 24em;
-left: 20%
+left: 19%
 }
 
 .gok {
 position: relative;
 top: 24em;
-left: 22%;
+left: 20%;
 }
 @media (hover: hover) {
   input:hover { box-shadow: 5px 10px 2px #888888;
